@@ -9,4 +9,4 @@ import{S as i}from"./vendor-CgTBfC_f.js";const t=[{preview:"https://cdn.pixabay.
     </a>
   </li>
 `).join("");e.innerHTML=n;new i(".gallery a",{captionsData:"alt",captionPosition:"bottom",captionDelay:250});
-//# sourceMappingURL=1-gallery-CKnWaWob.js.map
+//# sourceMappingURL=1-gallery-CfcRE1lD.js.map
